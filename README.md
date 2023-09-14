@@ -1,6 +1,21 @@
 <h1 align="center">Hi 👋, I'm Vinit Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://github.blog/wp-content/uploads/2023/01/100MDevs_Blog_1200x627_v3.gif?resize=1200%2C627">
+<!--START_SECTION:waka-->
+
+```txt
+From: 05 September 2023 - To: 12 September 2023
+
+Total Time: 33 hrs 2 mins
+
+TypeScript                20 hrs 58 mins  ████████████████░░░░░░░░░   63.50 %
+Rust                      9 hrs 5 mins    ███████░░░░░░░░░░░░░░░░░░   27.53 %
+TOML                      57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+JSON                      33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+TSConfig                  18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+```
+
+<!--END_SECTION:waka-->
+<img align="center" alt="Coding" width="1000" src="https://github.blog/wp-content/uploads/2023/01/100MDevs_Blog_1200x627_v3.gif?resize=1200%2C627">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinit2024&label=Profile%20views&color=0e75b6&style=flat" alt="vinit2024" /> </p>
 
 - 🔭 I’m currently working on **Cloud Computing**
