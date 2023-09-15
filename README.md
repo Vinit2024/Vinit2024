@@ -15,7 +15,7 @@ TSConfig                  18 mins         ▒░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-<img align="center" alt="Coding" width="1000" src="https://github.blog/wp-content/uploads/2023/01/100MDevs_Blog_1200x627_v3.gif?resize=1200%2C627">
+<img align="center" alt="Coding" width="1045" height="546" src="https://github.blog/wp-content/uploads/2023/01/100MDevs_Blog_1200x627_v3.gif?resize=1200%2C627">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinit2024&label=Profile%20views&color=0e75b6&style=flat" alt="vinit2024" /> </p>
 
 - 🔭 I’m currently working on **Cloud Computing**
