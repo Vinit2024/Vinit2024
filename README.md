@@ -20,7 +20,7 @@ TSConfig                  18 mins         ▒░░░░░░░░░░░�
 
 - 🔭 I’m currently working on **Cloud Computing and DevOps**
 
-- 🌱 I’m currently learning **DevOps, Cloud Computing, Artificial Intelligence, Web Development, Data Analysis and Visualization, Hacking tools and Network Security.**
+- 🌱 I’m currently learning **DevOps, Cloud Computing, IOT, Artificial Intelligence, Web Development, Data Analysis and Visualization, Hacking tools and Network Security.**
 
 - 👯 I’m looking to collaborate on **DevOps**
 
