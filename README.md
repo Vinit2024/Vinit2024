@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vinit Patel</h1>
+<h1 align="center">
+     Hi there, I'm <a href="https://hemant.codes">Vinit</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <!--START_SECTION:waka-->
 
